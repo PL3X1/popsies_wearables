@@ -55,6 +55,7 @@ body {
   height: 300px;
   width: 300px;
   border-radius: 0%;
+  border: 10px solid #ffffff;
 
 #portfolio-header-text-container {
   display: flex;

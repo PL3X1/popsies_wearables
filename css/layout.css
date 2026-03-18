@@ -51,6 +51,11 @@ body {
   height: auto;
 }
 
+.portfolio-header-image img {
+  height: 300px;
+  width: 300px;
+  border-radius: 0%;
+
 #portfolio-header-text-container {
   display: flex;
   flex-direction: column;

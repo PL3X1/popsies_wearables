@@ -52,10 +52,11 @@ body {
 }
 
 .portfolio-header-image img {
-  height: 300px;
-  width: 300px;
-  border-radius: 0%;
-  border: 10px solid #ffffff;
+  height: 400px;
+  width: 400px;
+  border-radius: 50%;
+  display: block;
+  margin: 50px auto;
 
 #portfolio-header-text-container {
   display: flex;

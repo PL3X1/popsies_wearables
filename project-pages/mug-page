@@ -68,24 +68,9 @@
             - Change the 'body-text' text to a short and sweet description of your project (maybe the same as the one on the project card)
             - Change "desktop.jpeg" to the image filename you uploaded in the assets/images folder.
           -->
-        <div class="main-title">Project Name</div>
-        <div class="body-text">Description</div>
-        <image class="project-header-image" src="../assets/images/scarlet3.png">
-      </div>
-
-      <!-- PROJECT DETAILS -->
-      <!-- 
-        TODO
-
-        - Change the 'subheader-text' to whatever header you want for project details
-        - Add paragraphs using the <div class="body-text"></div> elements in the "project-details-content"
-      -->
-      <div id="project-details">
-        <div class="subheader-text">Product details and background</div>
-        <div class="project-details-content">
-          <div class="body-text">Description 1</div>
-          <div class="body-text">Description 2</div>
-        </div>
+        <div class="main-title">Mugs</div>
+        <div class="body-text">Get custom images or hand made requested drawings printed onto your very own mug.</div>
+        <image class="project-header-image" src="../assets/images/Mug1.jp+g">
       </div>
 
       <!-- IMAGE GALLERY -->
